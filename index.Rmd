@@ -30,8 +30,8 @@ output:
 </script>
 
 ## Descripción del seminario
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_René_Descartes.jpg/392px-Frans_Hals_-_Portret_van_René_Descartes.jpg" style="width:350;height:350px;">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_René_Descartes.jpg/196px-Frans_Hals_-_Portret_van_René_Descartes.jpg" alt="Descartes" style="float:right;">
 En las *Meditaciones acerca de la Filosofía Primera*, el personaje del Meditador afirma que es una cosa que piensa (*res cogitans*), y esta cosa es algo que duda, entiende, afirma, niega, quiere, imagina y siente. Aunque fuese siempre engañado por un genio maligno, el Meditador puede estar seguro de que duda, afirma, niega, quiere, imagina y siente. Parece entonces que no sólo la proposición "Yo pienso" es cierta sino también son ciertas proposiciones que expresan cogitationes específicas como "Estoy dudando de que exista mi cuerpo" y "Estoy sintiendo el calor de la chimenea" ---proposiciones que expresan las diferentes formas en que, según Descartes, el Meditador piensa. En este seminario, examinaremos la posición cartesiana con respecto a las cogitationes específicas para así entender y evaluar la posición cartesiana con respecto a lo que es pensar.
 
 
