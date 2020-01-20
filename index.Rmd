@@ -1,0 +1,165 @@
+---
+title: "SFM - Descartes"
+# subtitle: La ontología de lo mental en las Meditaciones
+author: ''
+date: ''
+header-includes:
+  - \usepackage{fontspec}
+  - \setmainfont{Adobe Jenson Pro}  
+output:
+  html_document:
+    theme: yeti
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+  pdf_document:
+    toc: no
+    latex_engine: xelatex
+---
+<script>
+!--    google analytics-->
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74338484-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+## Descripción del seminario
+
+
+En las *Meditaciones acerca de la Filosofía Primera*, el personaje del Meditador afirma que es una cosa que piensa (*res cogitans*), y esta cosa es algo que duda, entiende, afirma, niega, quiere, imagina y siente. Aunque fuese siempre engañado por un genio maligno, el Meditador puede estar seguro de que duda, afirma, niega, quiere, imagina y siente. Parece entonces que no sólo la proposición "Yo pienso" es cierta sino también son ciertas proposiciones que expresan cogitationes específicas como "Estoy dudando de que exista mi cuerpo" y "Estoy sintiendo el calor de la chimenea" ---proposiciones que expresan las diferentes formas en que, según Descartes, el Meditador piensa. En este seminario, examinaremos la posición cartesiana con respecto a las cogitationes específicas para así entender y evaluar la posición cartesiana con respecto a lo que es pensar.
+
+
+
+
+El estudio que realizaremos consistirá en un examen **detallado** y **cuidadoso** de las *Meditaciones*. Durante buena parte del seminario, leeremos el texto de Descartes y acompañado de un texto filosófico contemporáneo sobre los temas de la respectiva meditación. Terminaremos el seminario con la lectura de algunos textos que critican una presunta posición cartesiana y evaluaremos los méritos de tales interpretaciones basados en nuestro estudio de las *Meditaciones*.
+
+Docente:
+Juan Camilo Espejo-Serna
+
+Horario y salón:
+Jueves 2:00pm - 5:00pm. Atelier 105
+
+Página web del curso:
+http://jcunisabana.github.io/descartes2018
+
+
+## Objetivos
+
+
+- Leer críticamente, analizar e interpretar la teoría de la mente presentada por Descartes en las *Meditaciones*.
+- Planear y elaborar textos interpretativos y argumentativos acerca de las teorías de Descartes.
+- Utilizar TIC para apoyar el estudio filosófico de las *Meditaciones*.
+
+
+## Metodología
+
+Cada sesión tendrá una lectura asignada previamente, una persona encargada de hacer una <a href="#Relatoría">relatoría</a> sobre esa lectura y una persona encargada de hacer el <a href="#Protocolo">protocolo</a> de la discusión. El seminario es un espacio para la discusión. ¡Aprovéchenlo!
+
+#### **Antes de la sesión**
+
+Quien está a cargo de la <a href="#Relatoría">relatoría</a> deberá subir su texto a la plataforma al menos **siete días** antes de la sesión. Los demás estudiantes deberán subir el <a href="#Control de lectura">control de lectura</a> por tarde **75 horas** antes de la sesión para luego leer la relatoría, escribir una <a href="#Comentario a la relatoría">respuesta corta</a> a ella y subir la respuesta a la plataforma al menos **5 horas** antes de la sesión.
+
+#### **Durante la sesión**
+
+Se comienza leyendo el protocolo de la sesión anterior, si lo hay. 
+
+Quien está a cargo de la <a href="#Relatoría">relatoría</a> debe estar al mando de la sesión y presentará su texto como se sienta más cómodo. Pueden, por ejemplo, estar sentados leyendo lentamente y comentando o de pie y utilizando el tablero como apoyo. Es su decisión pero deben tener en cuenta que el objetivo es lograr presentar y explicar su texto. 
+
+Quien está a cargo del <a href="#Protocolo">protocolo</a> debe tomar atenta nota de la presentación y la discusión. Su deber es, por decirlo de alguna manera, tomar notas por todos. 
+
+
+#### **Relatoría**
+
+Extensión: entre 1500 y 2500 palabras.
+
+Habrá un relator encargado de presentar el tema de cada sesión. La relatoría debe 1) tener una reseña crítica del texto asignado y 2) ofrecer puntos para la discusión. El texto de la relatoría deberá estar listo ocho días antes de la sesión. Por cada día tarde la nota será disminuida de acuerdo con los siguientes parámetros: un día: -0.5; dos días: -1.0; tres días: -1.5;  cuatro días: -2.0. Es obligación del ponente subir la relatoría a la plataforma virtual y traer copias impresas para todos los integrantes del seminario **siete días** antes de la presentación --a menos que se llegue a un acuerdo diferente.
+
+#### **Control de lectura**
+Extensión: entre 400 y 1000 palabras.
+
+Para cada lectura asignada, los estudiantes deben escribir un texto corto con la tesis principal, tres afirmaciones/presuposiciones del texto y tres preguntas/desafíos al texto.
+
+Los controles deberán ser subidos a la plataforma virtual a más tardar **75 horas** antes de la sesión. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
+
+Todos tienen un control de lectura "de gracia". Es decir, pueden dejar de entregar uno sin problema; el primer control de lectura que les falte no cuenta. Por ejemplo, si no entregan el control de lectura de la sesión en la que tienen que presentar la relatoría y entregan todos los demás, su nota igual queda en 5.0.
+
+#### **Comentario a la relatoría**
+Extensión: entre 400 y 500 palabras.
+
+Para cada relatoría, todos los estudiantes (salvo quien está a cargo de la relatoría) deberán escribir un texto corto en respuesta. La respuesta puede tomar diferentes formas pero esencialmente debe ser o bien *la respuesta* a una pregunta, explícita o implícita, en la relatoría o acerca de ella o bien el planteameanto detallado de un desafío o pregunta a la relatoría.
+
+Los comentarios deberán ser subidos a la plataforma virtual a más tardar 5 horas antes de la sesión. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
+
+#### **Protocolo**
+Extensión: Entre 700 y 1000 palabras
+
+En cada sesión, habrá un estudiante encargado de recoger la discusión de manera escrita. Todas la sesiones, salvo las primeras dos, empezarán con la lectura del protocolo de la sesión anterior. Es obligación del protocolante traer copias impresas para todos los integrantes del seminario --a menos que se llegue a un acuerdo diferente.
+
+#### **Abstract del ensayo argumentativo**
+Extensión: entre 400 y 500 palabras.
+
+
+Un texto  corto en donde se presente un resumen de la tesis principal y la estrategia argumentativa que empleará para ser entregado el **28 de octubre**.
+
+#### **Ensayo argumentativo**
+Extensión: entre 2000 y 3500 palabras.
+
+Un texto argumentativo de en donde se defienda una tesis filosófica. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
+
+
+## Plan semanal 
+
+```{r echo=FALSE}
+library(knitr)
+library(readxl)
+
+estudiantes = read.csv("listaestudiantes.csv")
+
+temas = read.csv("temas.csv") #con eso se lee archivo y se guarda en variable
+ 
+
+listadeclase <-  read_excel("listatemas.xlsx")
+
+ 
+kable(listadeclase[ ,c(1,2,3,4,7,8)],format="markdown")
+
+
+```
+
+
+## Calificación
+
+
+Se evaluará a los estudiantes por medio de controles de lectura, protocolos, relatorías, comentarios cortos y un ensayo argumentativo.
+<p style="color:white; background-color:indigo; padding: 5px; ">**Toda** entrega tarde injustificada verá la nota disminuida en 0.5 unidades por cada día tarde. No haber entregado antes de la hora acordada equivale a entregar un día tarde.</p>
+
+| Corte | Actividad | Valor Porcentual |
+| :-------------:|:-------------:|:-----:|
+| 1 | Controles de lectura semanales| 15% |
+| 1 | Comentarios a las relatorías| 15% |
+| 2 | Protocolo    |   15% |
+| 2 | Relatoría | 15% |
+| 3 | Abstract del ensayo argumentativo    |   10% |
+| 3 | Ensayo argumentativo | 30% |
+
+
+[//]: # (El c??digo de abajo sirve para generar los ID de todas las secciones y as?? poder hacer links autom??ticamente con los nombres de las secciones nada más. bonito.)
+ 
+<script type="text/javascript">
+  // When the document is fully rendered...
+  $(document).ready(function() {
+    // ...select all header elements...
+    $('h1, h2, h3, h4, h5').each(function() {
+      // ...and add an id to them corresponding to their 'titles'
+      $(this).attr('id', $(this).html());
+    });
+  });
+</script>
+
+
